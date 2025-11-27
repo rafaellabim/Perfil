@@ -1,12 +1,13 @@
 # Perfil
 
-## Rafalla Bim | Perfil Profissional
+## Rafaella Bim | Perfil Profissional
 
 
 Estudante de Análise e Desenvolvimento de Sistemas (2º Semestre), com formação em andamento e foco na aplicação prática de conhecimentos.
 
 Possuo especial interesse e dedicação nas áreas de Desenvolvimento Frontend e UX/UI (Experiência do Usuário e Interface). Estou em processo contínuo de aprimoramento técnico e construção de um portfólio robusto.
 
+---
 
 ### Qualificações e Certificações
 
@@ -33,9 +34,13 @@ Design e Prototipagem
 
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
 
+---
+
 ### Portfólio de Projetos
 
 Esta seção será atualizada com os projetos de maior relevância em breve.
+
+---
 
 ### Contatos Profissionais
 
